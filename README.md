@@ -1,6 +1,9 @@
 # TWD_BehindTheHigh
 This repository contains all project files used and created by the team consisting of Hanna Szczerbińska, Paula Wołkowska and Zuzanna Zalewska, in connection with our first project in the course 'Data Visualization Techniques' at Warsaw University of Technology, during the 2024/2025 winter semester. 
 
+Final poster: 
+![image](https://github.com/user-attachments/assets/644073a6-f9b1-420e-8a99-250b7a67a441)
+
 Datasets used for the charts: 
 - https://www.euda.europa.eu/data/repository/source-data-frequently-asked-questions-faq-drug-overdose-deaths-europe_en?fbclid=IwZXh0bgNhZW0CMTEAAR0QHG_pvQPlDgmTsGJtRdd4JOFQdH4-_Q12IOvTzh9XymKgtCqfWhgE5jk_aem_TILB_YlDIBHcpdoYKmxvsw (table 3)
 - https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci
@@ -12,6 +15,3 @@ Additional sources:
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC5853818/?fbclid=IwZXh0bgNhZW0CMTEAAR3jWRZc6txTnIK5wVgAWH4Pl4wr5FCHQn3sKC5bBWkWHqT_v6sEgVkGTcI_aem_U3uYGeI4LXQApB_WkE7dhw
 - https://www.addictioncenter.com/addiction/differences-men-women/#:~:text=Typically%2C%20men%20are%20more%20likely,6.4%25%20of%20women%20and%20girls.
 - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2796.2009.02082.x
-
-Final poster: 
-![image](https://github.com/user-attachments/assets/644073a6-f9b1-420e-8a99-250b7a67a441)
